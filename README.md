@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-project.git
+git clone 
 cd your-project
 Install dependencies:
 bash
